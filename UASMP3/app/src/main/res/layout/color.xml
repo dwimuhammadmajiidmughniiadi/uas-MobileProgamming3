@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <resources tools:ignore="MissingConstraints">
+        <color android:name="colorPrimary">#2196F3</color>
+        <color android:name="colorPrimaryDark">#1565C0</color>
+        <color android:name="colorAccent">#1976D2</color>
+        <color android:name="colorWhite">#FFFFFF</color>
+        <color android:name="colorGray">#E5E5E5</color>
+        <color android:name="colorText">#8A8A8A</color>
+    </resources>
+</androidx.constraintlayout.widget.ConstraintLayout>

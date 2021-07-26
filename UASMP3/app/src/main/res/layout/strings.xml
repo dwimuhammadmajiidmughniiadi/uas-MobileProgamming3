@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <resources tools:ignore="MissingConstraints">
+
+        <string android:name="app_name">AndroidLoginAndRegistration</string>
+        <string android:name="email">Email</string>
+        <string android:name="password">Password</string>
+        <string android:name="login">Login</string>
+        <string android:name="register">Register</string>
+        <string android:name="register_caption">Dont have an account? Register</string>
+        <string android:name="title_activity_register">RegisterActivity</string>
+        <string android:name="first_name">First Name</string>
+        <string android:name="last_name">Last Name</string>
+        <string android:name="logout">Logout</string>
+        <string android:name="greeting">Hi, %s :)</string>
+    </resources>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
